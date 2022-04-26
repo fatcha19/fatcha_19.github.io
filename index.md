@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+https://colab.research.google.com/github/fatcha19/fatcha_19.github.io/blob/main/Fatcha.ipynb
 <!-- Remove above link if you don't want to attibute -->
