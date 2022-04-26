@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://colab.research.google.com/drive/14tO6Ir1TjZ60UOJOPaL7HKxFGD6azeqk#scrollTo=53tL-eaqOH8y
+<p style="font-size:11px">Page template forked from <a href="https://github.com/fatcha19/fatcha_19.github.io/blob/main/Fatcha19.ipynb
 <!-- Remove above link if you don't want to attibute -->
